@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06626</idno>
+            <idno type="STC">Wing W2449</idno>
+            <idno type="STC">ESTC R227759</idno>
+            <idno type="EEBO-CITATION">51784709</idno>
+            <idno type="OCLC">ocm 51784709</idno>
+            <idno type="VID">175108</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175108)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2712:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the executrix of Thomas Newcomb, deceas'd ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1699 [i.e. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: royal seal with initial W R at head.</note>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Corrected date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  Legal status, laws, etc. --  Great Britain --  17th century --  Sources.</term>
+               <term>Catholics --  Great Britain --  History --  17th century --  Sources.</term>
+               <term>Anti-Catholicism --  Great Britain --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:175108:1"/>
+            <pb facs="tcp:175108:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>W R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>By the King, A PROCLAMATION.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas His Majeſty hath béen Informed, That great Numbers of Papiſts and other Diſaffected Perſons, who diſown His Majeſties Government, have lately Reſorted to, and Aſſembled in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> contrary to the known Laws of this Kingdom; His Majeſty therefore hath thought fit, by the Advice of His Privy Council, to Iſſue this His Royal Proclamation, and does hereby ſtrictly Charge and Command all Popiſh Recuſants, Natives or Denizons, being above the Age of Sixteen Years, That they do, according to the Statutes in that behalf made, repair to their reſpective Places of Abode, and if they have none, then to the Places where their reſpective Father or Mother is or ſhall be Dwelling, and do not hereafter remove or paſs above Five Miles from thence. And His Majeſty does hereby Command the Lord Mayor of <hi>London,</hi> and all other Iuſtices of the Peace, and other Officers within the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and Ten Miles of the ſame, That they do Effectually proceed to put in Execution the Statute made in the Firſt Year of the Reign of His preſent Majeſty and of the late Queen <hi>Mary</hi> of Bleſſed Memory, Intituled, <hi>An Act for the Amoving Papiſts and Reputed Papiſts from the Cities of London and Weſtminſter, and Ten Miles diſtance from the ſame,</hi> by tendring to them the Declaration therein mentioned, and otherwiſe according to the ſaid Act. And His Majeſty does likewiſe Charge and Command the aforeſaid, and all other Iuſtices of the Peace whatſoever. To tender the Declaration aforeſaid, according to one other Act made in the Firſt Year of the Reign of His preſent Majeſty and the ſaid late Queen, Intituled, <hi>An Act for the better Securing the Government by Diſarming Papiſts and Reputed Papiſts.</hi> And for the better Diſcovering of Perſons Diſaffected to the Government, and that being diſcovered, their Diſloyal and Wicked Purpoſes and Attempts may be diſappointed, His Majeſty does ſtrictly Charge and Command all Iuſtices of the Peace and other Officers in that behalf Authorized, That where they ſhall find or be informed of any Perſon, who by reaſon of his Converſation, Diſcourſe or other Demeanour, ſhall be ſuſpected not to be well Affected to His Majeſties Government, they do effectually put in Execution the Act made in the Seventh and Eighth Years of His Majeſties Reign, Intituled, <hi>An Act for the better Security of His Majeſties Royal Perſon and Government,</hi> by Summoning the ſaid Perſons, and Tendring to them the Oaths by the ſaid Act Appointed to be taken, and in Caſe of Refuſal or Neglect of Appearance, to Proceed further againſt ſuch Offenders according to the Directions of the ſaid Act; It being His Majeſties Pleaſure, that the Laws be Executed to the utmoſt againſt ſuch Offenders. And His Majeſty does hereby Charge and par<g ref="char:EOLhyphen"/>ticularly Require all Deputy Lieutenants and Iuſtices of the Peace, that they do meet Monthly to In<g ref="char:EOLhyphen"/>quire into and Inform themſelves of the Affairs of their reſpective Counties and Diviſions in relation to the Premiſſes, and take ſpecial care to preſerve the Peace, and prevent all unlawful Meetings and Aſ<g ref="char:EOLhyphen"/>ſemblies, and that from time to time they give Information of their Proceedings and Diſcoveries to the Lords of His Majeſties moſt Honourable Privy Council.</p>
+            <closer>
+               <dateline>Given at Our Court at Kenſington, <date>the Eighth Day of February, 1699. In the Eleventh Year of Our Reign.</date>
+               </dateline>
+               <lb/> 
+               <hi>God ſave the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1699.</p>
+            <pb facs="tcp:175108:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
